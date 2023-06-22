@@ -17,8 +17,25 @@ Building generation:
 
 
 # Examples of generated cities:
+![DS_VOR_LAYER](Screenshots/DS_VOR_LAYER.png)
+Terrain: diamond-square  
+Road network: voronoi  
+Buildings: layer stacking  
+</br>
 
-![DS_VOR_LAYER](Screenshots/DS_VOR_LAYER.jpg)
-![FLAT_GRID_EXTR](Screenshots/FLAT_GRID_EXTR.jpg)
-![FLAT_VOR_LAYER](Screenshots/FLAT_VOR_LAYER.jpg)
-![PER_CUST_EXTR](Screenshots/PER_CUST_EXTR.jpg)
+![FLAT_GRID_EXTR](Screenshots/FLAT_GRID_EXTR.png)
+Terrain: flat  
+Road network: voronoi (grid)  
+Buildings: extrusion  
+</br>
+
+![FLAT_VOR_LAYER](Screenshots/FLAT_VOR_LAYER.png)
+Terrain: flat  
+Road network: voronoi  
+Buildings: layer stacking  
+</br>
+
+![PER_CUST_EXTR](Screenshots/PER_CUST_EXTR.png)
+Terrain: perlin  
+Road network: custom  
+Buildings: extrusion  
